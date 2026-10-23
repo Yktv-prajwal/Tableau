@@ -1,2 +1,2 @@
 # Tableau
-Things I do while Learning Tableau
+Things I do while Learning Tableau.
